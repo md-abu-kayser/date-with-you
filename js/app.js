@@ -4,7 +4,7 @@ const AppState = {
   food: null,
   date: null,
   time: null,
-  calMonth: 5, // June (0-indexed)
+  calMonth: 8, // August (0-indexed)
   calYear: 2026,
 };
 
